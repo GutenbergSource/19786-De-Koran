@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Interne referenties:
+
+Soera XI = s11
+Soera XI, vers 23 = s11.23
+
+patterns for cross references:
+
+
+(Soera|Hoofdst(uk[.,]?|\.,?)) ([IVXLC]+|[0-9]+)([.,]?) (v(ers|s?\.)) ([0-9]+)
+
+<ref target=s\3.\7>\1 \3\4 \5 \7</ref>
+
+Soera II vers 259.
+Soera II, vers 259.
+Hoofdstuk X v. 93.
+Hoofdst. X v. 93.
+
+103e Soera
+
+
+Referenties naar de Bijbel:
+
+Exodus IV vs. 21 Jos. XI vs. 20. Rom. XI vs. 8&ndash;10. I vs. 28,
+IX vs. 17.
+
+Structuur: <Boek>.<Hoofdstuk>.<Vers>
+
+Voor boek gebruiken we de standaard (Engelse) afkorting, voor hoofdstuk en vers gewone cijfers.
+
+<xref doc=Bijbel from=Rom.11.8>Rom. XI vs. 8</xref>
+
+<xref doc=Bijbel from=Rom.11.8 to=Rom.11.10>Rom. XI vs. 8-10</xref>
+
+http://www.tua.nl/bgc.html
+
+
+
+
+24. Normative Abbreviations for canonical and deutero-canonical books
+
+These names are taken from the SBL Manual of Style, which also provides normative abbreviations for works of classical literature, manuscripts, journals, and other information objects of interest to Biblical studies.
+24.1.
+
+Hebrew Bible/Old Testament
+
+* Gen		Genesis			Genesis
+* Exod		Exodus			Exodus
+* Lev		Leviticus		Leviticus
+* Num		Numbers			Numeri
+* Deut		Deuteronomy		Deuteronomium
+* Josh		Joshua			Jozua
+* Judg		Judges			Richteren / Rechters
+* Ruth		Ruth			Ruth
+* 1Sam		1 Samuel		I Samuël
+* 2Sam		2 Samuel		II Samuël
+* 1Kgs		1 Kings			I Koningen
+* 2Kgs		2 Kings			II Koningen
+* 1Chr		1 Chronicles		I Kronieken
+* 2Chr		2 Chronicles		II Kronieken
+* Ezra		Ezra			Ezra
+* Neh		Nehemiah		Nehemia
+* Esth		Esther			Esther
+* Job		Job			Job
+* Ps		Psalms			Psalmen
+* Prov		Proverbs		Spreuken
+* Eccl		Ecclesiastes		Prediker
+* Song		Song of Solomon		Hooglied
+* Isa		Isaiah			Jesaja
+* Jer		Jeremiah		Jeremia
+* Lam		Lamentations		Klaagliederen
+* Ezek		Ezekiel			Ezechiël
+* Dan		Daniel			Daniël
+* Hos		Hosea			Hosea
+* Joel		Joel			Joël
+* Amos		Amos			Amos
+* Obad		Obadiah			Obadja
+* Jonah		Jonah			Jona
+* Mic		Micah			Micha
+* Nah		Nahum			Nahum
+* Hab		Habakkuk		Habakuk
+* Zeph		Zephaniah		Zefanja
+* Hag		Haggai			Haggai
+* Zech		Zechariah		Zacharia
+* Mal		Malachi			Maleachi
+
+New Testament
+
+* Matt		Matthew			Matteüs
+* Mark		Mark			Marcus
+* Luke		Luke			Lucas
+* John		John			Johannes
+* Acts		Acts			Handelingen van de Apostelen
+* Rom		Romans			Brief van Paulus aan de Romeinen
+* 1Cor		1 Corinthians		Eerste brief van Paulus aan de Korintiërs
+* 2Cor		2 Corinthians		Tweede brief van Paulus aan de Korintiërs
+* Gal		Galatians		Brief van Paulus aan de Galaten
+* Eph		Ephesians		Brief van Paulus aan de Efeziërs
+* Phil		Philippians		Brief van Paulus aan de Filippenzen
+* Col		Colossians		Brief van Paulus aan de Kolossenzen
+* 1Thess	1 Thessalonians		De eerste brief van Paulus aan de Tessalonicenzen
+* 2Thess	2 Thessalonians		De tweede brief van Paulus aan de Tessalonicenzen
+* 1Tim		1 Timothy		Eerste brief van Paulus aan Timoteüs
+* 2Tim		2 Timothy		Tweede brief van Paulus aan Timoteüs
+* Titus		Titus			Brief van Paulus aan Titus
+* Phlm		Philemon		Brief van Paulus aan Filemon
+* Heb		Hebrews			Brief aan de Hebreeën
+* Jas		James			Brief van Jakobus
+* 1Pet		1 Peter			Eerste brief van Petrus
+* 2Pet		2 Peter			Tweede brief van Petrus
+* 1John		1 John			Eerste brief van Johannes
+* 2John		2 John			Tweede brief van Johannes
+* 3John		3 John			Derde brief van Johannes
+* Jude		Jude			Brief van Judas
+* Rev		Revelation		Openbaring van Johannes
+
+Apocrypha and Septuagint
+		
+* Bar		Baruch				Baruch
+* AddDan	Additions to Daniel		Toevoegingen bij Daniël
+* PrAzar	Prayer of Azariah
+* Bel		Bel and the Dragon
+* SgThree	Song of the Three Young Men
+* Sus		Susanna
+* 1Esd		1 Esdras
+* 2Esd		2 Esdras
+* AddEsth	Additions to Esther		Toevoegingen op Esther
+* EpJer		Epistle of Jeremiah		Brief van Jeremia
+* Jdt		Judith				Judit
+* 1Macc		1 Maccabees			I Makkabeeën
+* 2Macc		2 Maccabees			II Makkabeeën
+* 3Macc		3 Maccabees
+* 4Macc		4 Maccabees
+* PrMan		Prayer of Manasseh		Het gebed van Manasse
+* Sir		Sirach/Ecclesiasticus		De wijsheid van Jezus Sirach / Sirach
+* Tob		Tobit				Tobit
+* Wis		Wisdom of Solomon		De wijsheid van Salomo / Wijsheid
+
+These abbreviations are as defined in the SBL Handbook of Style published by the Society of Biblical Literature, except that spaces have been removed from the abbreviations for some Apocryphal and Septuagint books.
+
+Note that because XML prohibits digits as the first character of IDs and other XML names, these abbreviations cannot be used directly as XML IDs, and are not of that schema datatype.
+
