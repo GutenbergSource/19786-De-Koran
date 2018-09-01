@@ -1,24 +1,24 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
-<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+<image path="images/book.png" filesize="227" filedate="2018-08-26 09:22:40" width="16px" height="16px">
 </image>
 <image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
 </image>
-<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+<image path="images/external.png" filesize="151" filedate="2018-08-26 09:22:40" width="12px" height="12px">
 </image>
-<image path="images/map1-tn.jpg" filesize="80654" filedate="2009-12-07 22:48:40" width="720px" height="546px">
+<image path="images/map1-tn.jpg" filesize="79696" filedate="2018-08-26 09:22:40" width="720px" height="546px">
 </image>
-<image path="images/map1.jpg" filesize="275713" filedate="2006-09-11 18:32:46" width="1536px" height="1165px">
+<image path="images/map1.jpg" filesize="270187" filedate="2018-08-26 09:22:41" width="1536px" height="1165px">
 </image>
-<image path="images/map2-tn.jpg" filesize="88272" filedate="2009-12-07 22:49:25" width="720px" height="547px">
+<image path="images/map2-tn.jpg" filesize="87142" filedate="2018-08-26 09:22:41" width="720px" height="547px">
 </image>
-<image path="images/map2.jpg" filesize="329626" filedate="2006-09-11 18:59:39" width="1536px" height="1167px">
+<image path="images/map2.jpg" filesize="322076" filedate="2018-08-26 09:22:41" width="1536px" height="1167px">
 </image>
-<image path="images/map3-tn.jpg" filesize="92665" filedate="2009-12-07 22:50:07" width="720px" height="544px">
+<image path="images/map3-tn.jpg" filesize="91595" filedate="2018-08-26 09:22:41" width="720px" height="544px">
 </image>
-<image path="images/map3.jpg" filesize="341414" filedate="2006-09-11 19:31:32" width="1536px" height="1160px">
+<image path="images/map3.jpg" filesize="335550" filedate="2018-08-26 09:22:41" width="1536px" height="1160px">
 </image>
-<image path="images/new-cover-tn.jpg" filesize="11696" filedate="2014-12-21 10:54:25" width="213px" height="320px">
+<image path="images/new-cover-tn.jpg" filesize="11182" filedate="2018-08-26 09:22:42" width="213px" height="320px">
 </image>
-<image path="images/new-cover.jpg" filesize="70199" filedate="2014-12-21 10:53:54" width="480px" height="720px">
+<image path="images/new-cover.jpg" filesize="67801" filedate="2018-08-26 09:22:42" width="480px" height="720px">
 </image>
 </images>
